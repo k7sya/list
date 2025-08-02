@@ -2,8 +2,8 @@
   "libraries": {
     "LibMath": {
       "description": "Adding Math to k7Sya",
-      "version": "1.2",
-      "url": "https://github.com/k7sya/LibMath/releases/latest/download/LibMath.dll"
+      "version": "1.0",
+      "url": "https://github.com/k7sya/LibMath/raw/refs/heads/main/LibMath.dll"
     }
   },
   "plugins": { }
