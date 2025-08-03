@@ -5,6 +5,11 @@
       "version": "1.0",
       "url": "https://github.com/k7sya/LibMath/raw/refs/heads/main/LibMath.dll"
     }
+    "LibOS": {
+      "description": "Adding OS Manipylations to k7Sya",
+      "version": "1.0",
+      "url": "https://github.com/k7sya/LibOS/raw/refs/heads/main/LibOS.dll"
+    }
   },
   "plugins": { }
 }
